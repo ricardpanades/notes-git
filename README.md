@@ -8,11 +8,13 @@ Algunes notes d'interés sobre Git.
 [Link de sintaxis markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### ÍNDEX
-
 1. [Bàsic](https://github.com/ricardpanades/notes-git#basic)
 2. [Branches](https://github.com/ricardpanades/notes-git#branches)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.es_CO"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Notes Git</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="http://ricardpanades.com" property="cc:attributionName" rel="cc:attributionURL">Ricard Panadès Nadal</a> se encuentra bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.es_CO">Licencia Creative Commons Atribución-NoComercial 3.0 Unported</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ricardpanades/notes-git" rel="dct:source">https://github.com/ricardpanades/notes-git</a>.
+
+
+#### Llicencia:
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.es_CO"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Notes Git</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="http://ricardpanades.com" property="cc:attributionName" rel="cc:attributionURL">Ricard Panadès Nadal</a> està sota una <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.es_CO">Licencia Creative Commons Atribución-NoComercial 3.0 Unported</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ricardpanades/notes-git" rel="dct:source">https://github.com/ricardpanades/notes-git</a>.
 
 
 
