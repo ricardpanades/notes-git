@@ -1,5 +1,5 @@
 # NOTES GIT
----------
+=========
 
 Algunes notes d'interés sobre Git.
 
