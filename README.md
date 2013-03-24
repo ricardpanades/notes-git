@@ -44,6 +44,11 @@ Per a fer un commit:
 $ git commit -m "missatge descriptiu per a el commit"
 ```
 
+Per agregar tot i fer un commit a la vegada:
+```
+$ git commit -a -m "missatge descriptiu per a el commit"
+```
+
 Per a pujar el/s commit/s al servidor:
 ```
 $ git push
